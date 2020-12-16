@@ -15,11 +15,4 @@ bool is_armstrong_number(int candidate) {
   return candidate == sum;
 }
 
-/*
-int main() {
-  int x = 5;
-  printf("Log: %f", log10(x));
-  printf("Digits: %d", num_digits(x));
-  printf("Armstrong: %d", is_armstrong_number(x));
-}
-*/
+
